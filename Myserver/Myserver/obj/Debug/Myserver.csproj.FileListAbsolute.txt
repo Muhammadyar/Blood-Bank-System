@@ -1,0 +1,36 @@
+C:\Users\Muhammad Iqbal\Desktop\Myserver\Myserver\bin\Debug\Myserver.exe.config
+C:\Users\Muhammad Iqbal\Desktop\Myserver\Myserver\obj\Debug\Myserver.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Iqbal\Desktop\Myserver\Myserver\obj\Debug\Myserver.Form1.resources
+C:\Users\Muhammad Iqbal\Desktop\Myserver\Myserver\obj\Debug\Myserver.LoginForm.resources
+C:\Users\Muhammad Iqbal\Desktop\Myserver\Myserver\obj\Debug\Myserver.Properties.Resources.resources
+C:\Users\Muhammad Iqbal\Desktop\Myserver\Myserver\obj\Debug\Myserver.csproj.GenerateResource.Cache
+C:\Users\Muhammad Iqbal\Desktop\Myserver\Myserver\bin\Debug\Myserver.exe
+C:\Users\Muhammad Iqbal\Desktop\Myserver\Myserver\bin\Debug\Myserver.pdb
+C:\Users\Muhammad Iqbal\Desktop\Myserver\Myserver\obj\Debug\Myserver.exe
+C:\Users\Muhammad Iqbal\Desktop\Myserver\Myserver\obj\Debug\Myserver.pdb
+E:\OOAD\Lab\Myserver\Myserver\bin\Debug\Myserver.exe.config
+E:\OOAD\Lab\Myserver\Myserver\obj\Debug\Myserver.exe
+E:\OOAD\Lab\Myserver\Myserver\obj\Debug\Myserver.pdb
+E:\OOAD\Lab\Myserver\Myserver\bin\Debug\Myserver.exe
+E:\OOAD\Lab\Myserver\Myserver\bin\Debug\Myserver.pdb
+E:\OOAD\Lab\Myserver\Myserver\obj\Debug\Myserver.csprojResolveAssemblyReference.cache
+E:\OOAD\Lab\Myserver\Myserver\obj\Debug\Myserver.Form1.resources
+E:\OOAD\Lab\Myserver\Myserver\obj\Debug\Myserver.LoginForm.resources
+E:\OOAD\Lab\Myserver\Myserver\obj\Debug\Myserver.Properties.Resources.resources
+E:\OOAD\Lab\Myserver\Myserver\obj\Debug\Myserver.csproj.GenerateResource.Cache
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\bin\Debug\Myserver.exe.config
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\obj\Debug\Myserver.exe
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\obj\Debug\Myserver.pdb
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\bin\Debug\Myserver.exe
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\bin\Debug\Myserver.pdb
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\bin\Debug\mscorlib.dll
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\bin\Debug\normidna.nlp
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\bin\Debug\normnfc.nlp
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\bin\Debug\normnfd.nlp
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\bin\Debug\normnfkc.nlp
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\bin\Debug\normnfkd.nlp
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\obj\Debug\Myserver.csprojResolveAssemblyReference.cache
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\obj\Debug\Myserver.Form1.resources
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\obj\Debug\Myserver.LoginForm.resources
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\obj\Debug\Myserver.Properties.Resources.resources
+C:\Users\shoaib khan\Desktop\Lab\Myserver\Myserver\obj\Debug\Myserver.csproj.GenerateResource.Cache
